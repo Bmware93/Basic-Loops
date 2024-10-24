@@ -1,0 +1,15 @@
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/bin/Debug/net7.0/BasicLoops
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/bin/Debug/net7.0/BasicLoops.deps.json
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/bin/Debug/net7.0/BasicLoops.runtimeconfig.json
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/bin/Debug/net7.0/BasicLoops.dll
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/bin/Debug/net7.0/BasicLoops.pdb
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/BasicLoops.csproj.AssemblyReference.cache
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/BasicLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/BasicLoops.AssemblyInfoInputs.cache
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/BasicLoops.AssemblyInfo.cs
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/BasicLoops.csproj.CoreCompileInputs.cache
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/BasicLoops.dll
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/refint/BasicLoops.dll
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/BasicLoops.pdb
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/BasicLoops.genruntimeconfig.cache
+/Users/beniamorgan-ware/Projects/BasicLoops/BasicLoops/obj/Debug/net7.0/ref/BasicLoops.dll
